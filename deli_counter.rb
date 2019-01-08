@@ -15,6 +15,5 @@ end
 
 def take_a_number(katz_deli, person)
   katz_deli << person
-  puts 
-  
+  puts "#{Person}"
 end
